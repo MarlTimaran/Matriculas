@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EnrollmentJM</string>
+    <string name="button">Get Data</string>
+    <string name="button2">Help</string>
+    <string name="textView5">These data are taken from the web site data.gov.co that is available on the web without any restrictions</string>
+    <string name="textView3">Developer</string>
+    <string name="textView2">Name Establishment</string>
+    <string name="textView4">Municipality</string>
+    <string name="btn9">Exit</string>
+    <string name="tv77">Phone: 3164994316</string>
+</resources>

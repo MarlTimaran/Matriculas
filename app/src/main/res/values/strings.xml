@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MatriculasJM</string>
+    <string name="button">Obtener Datos</string>
+    <string name="button2">Ayuda</string>
+    <string name="textView5">Estos datos son tomados de la pagina web datos.gov.co que esta disponible en la web sin ninguna restriccion</string>
+    <string name="textView3">Desarrollador</string>
+    <string name="textView2">Nombre Establecimiento</string>
+    <string name="textView4">Municipio</string>
+    <string name="btn9">Salir</string>
+    <string name="tv77">Tel: 3164994316</string>
+</resources>
